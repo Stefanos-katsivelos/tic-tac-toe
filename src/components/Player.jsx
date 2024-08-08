@@ -1,3 +1,4 @@
+
 import { useState } from "react";
 
 export default function Player({ initialName, symbol }) {
@@ -32,3 +33,4 @@ export default function Player({ initialName, symbol }) {
     </li>
   );
 }
+
